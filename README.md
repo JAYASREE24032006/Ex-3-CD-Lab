@@ -1,4 +1,4 @@
-# Ex-3 RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
+# EX3 - RECOGNITION OF A VALID ARITHMETIC EXPRESSION THAT USES OPERATOR + , - , * AND/USING YACC
 
 ## AIM :
 
@@ -74,4 +74,4 @@ yyparse();
 
 ## RESULT :
 
-A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
+A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified Successfully.
